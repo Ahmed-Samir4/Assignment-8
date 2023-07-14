@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.bg-img{
+    background-image: url(photo-1682687220566-5599dbbebf11.avif);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.bg-img h1{
+    font-size: 5rem;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bg-img p{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pf p{
+    padding: 1.25rem 0;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
